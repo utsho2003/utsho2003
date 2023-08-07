@@ -1,7 +1,7 @@
 [![MasterHead](https://images.pond5.com/web-development-animated-word-cloud-footage-074827067_prevstill.jpeg)](https://github.com/utsho2003)
 <h1 align="center">Hi 👋, I'm Utsho Ghosh</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="utsho2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsho2003" alt="utsho2003" /></a> </p>
