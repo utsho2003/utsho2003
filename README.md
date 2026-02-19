@@ -1,12 +1,12 @@
 [![MasterHead](https://images.pond5.com/web-development-animated-word-cloud-footage-074827067_prevstill.jpeg)](https://github.com/utsho2003)
 <h1 align="center">Hi 👋, I'm Utsho Ghosh</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="utsho2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsho2003" alt="utsho2003" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Data Science and Artificial Intelligence (AI/ML)**
 
 - 📫 How to reach me **utshoghosh8@gmail.com**
 
